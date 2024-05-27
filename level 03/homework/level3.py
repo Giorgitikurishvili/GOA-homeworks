@@ -1,13 +1,19 @@
-name = "Gio "
+#1) შექმენი ცვლადები,  სახელი,გვარი,ასაკი,ჰობი,ქვეყანა და  ეს ყველა ცვლადი დაპრინტეთ. 
+
+name = " Gio "
 surname = "Tikurishvili, "
-age = "13, "
+age = " 13 "
 hobby = "hobby-programming, "
 country = "Georgia."
 
-print(name + surname + age + hobby + country)
+print("my name is" + name + surname + "im" + age + "years old" + hobby + country)
+
+#2) შექმენით ცვლადები, გადაეცით მნიშვნელობები და შემდგომ დაამატეთ ერთმანეთზე.
 
 text = "Gamarjoba me var Giorgi Tikurishvili, me vswavlob GOAshi da vmushaob imistvis rom momavali uketesi mqondes. Madloba  GOal oriented academys."
 print(text)
+
+#3)  გააკეთეთ 10 მაგალითი ყველა მათემათიკურ ოპერატორებზე. +,-,*,//,**
 
 print(100 + 100)
 print(100 + 90)
@@ -67,3 +73,5 @@ print(15 ** 10)
 text = "Madloba yuradgebistvis"
 print(text)
 
+message = "Game over"
+message = print("Game over")
