@@ -73,5 +73,3 @@ print(15 ** 10)
 text = "Madloba yuradgebistvis"
 print(text)
 
-message = "Game over"
-message = print("Game over")

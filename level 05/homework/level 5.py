@@ -1,9 +1,11 @@
 from turtle import *
 
 #am kodshi speed cvlads mivuniwe siswrafe
+
 speed = (10)
 
 #am kodshi width cvlads mivuniwe sisqe
+
 width = (7)
 
 # 1.turtle-ში დახაზეთ სასახლე
@@ -91,76 +93,6 @@ right(90)
 forward(60)
 right(90)
 forward(90)
-
-
-
-
-
-
-
-#left(180)
-#forward(25)
-#right(90)
-#forward(45)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
